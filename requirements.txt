@@ -25,3 +25,4 @@ duckduckgo-search
 ddgs
 huggingface-hub
 hf_xet
+pytest
